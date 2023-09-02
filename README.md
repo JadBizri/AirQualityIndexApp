@@ -8,7 +8,7 @@ An app that shows real-time air quality information for multiple cities around t
 - Reliable Data Source: The app relies on the openweathermap.org API, a trusted and widely-used source for weather and air quality information, ensuring the accuracy and reliability of the data presented.
 
 # App Preview
-![](https://github.com/AirQualityIndexApp/weather_app_scrn_rec.gif)
+![](./weather_app_scrn_rec.gif)
 
 # Requirements
 - Android device
