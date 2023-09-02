@@ -7,6 +7,9 @@ An app that shows real-time air quality information for multiple cities around t
 - Simple User Interface: The user interface is designed to be intuitive, making it easy for users to navigate, search for available cities, and access air quality information quickly and conveniently.
 - Reliable Data Source: The app relies on the openweathermap.org API, a trusted and widely-used source for weather and air quality information, ensuring the accuracy and reliability of the data presented.
 
+# App Preview
+![](https://github.com/AirQualityIndexApp/weather_app_scrn_rec.gif)
+
 # Requirements
 - Android device
 - Internet connection to access real-time air quality data.
